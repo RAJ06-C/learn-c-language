@@ -131,35 +131,12 @@ This project is designed to teach **C Language from scratch to advanced**, inclu
 
 ---
 
-### 🏆 [16. Interview Preparation](./interview_prep/)
-- [Common Interview Questions](./interview_prep/interview_questions.md)  
-- [MCQs](./interview_prep/mcqs.md)  
-- [Debugging Practice](./interview_prep/debugging.md)  
-
----
-
-### 📚 [17. Resources](./resources/)
-- [Recommended Books](./resources/recommended_books.md)  
-- [Online Compilers](./resources/online_compilers.md)  
-- [Reference Websites](./resources/references.md)  
-
----
-
 ## 🚀 How to Use
 1. Start with the **Basics** folder.  
 2. Complete one topic at a time with examples.  
 3. Move to **Intermediate** and **Advanced** sections.  
 4. Try building projects from the **Projects** folder.  
-5. Prepare for interviews using **Interview Prep** materials.  
-
----
-
-## 🤝 Contribution
-Want to contribute?  
-- Fork this repository  
-- Create a new branch (`feature-topic-name`)  
-- Add or improve a topic  
-- Submit a pull request 🎉  
+5. Practice more questions  and create a small **Projects**
 
 ---
 
