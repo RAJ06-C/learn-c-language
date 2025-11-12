@@ -392,3 +392,17 @@ int result = a + b;
 | `(type)`     | Type casting                            | `(float)a` converts integer `a` to float |
 
 ---
+
+##  📍Local and Global Variables
+
+-   ##  Gbobal variables
+  
+  Global variables are variables that are declared outside of any function or block of code and can be accessed from any part of the program. Unlike local variables, which have limited scope, global variables have a broader scope and can be used across multiple functions, modules, or files within a program
+
+-   ##  Local variables
+
+  Local variables are variables that are declared within a specific scope, such as within a function or a block of code. These variables are only accessible within that particular scope and are typically used for temporary storage of data or for performing calculations within a limited context. Once the scope in which a local variable is defined ends, the variable typically goes out of scope and its memory is released.
+
+In many programming languages, local variables have a limited visibility and lifespan compared to global variables, which are accessible from any part of the program. This encapsulation of variables within specific scopes helps to organize code, prevent unintended modifications, and manage memory efficiently.
+
+---
